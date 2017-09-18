@@ -1,0 +1,18 @@
+Homework Title: TinyApp
+Author's Name: Frances Hughes 
+Date: 9/18/2017
+
+The Tiny App is a simple form that allows the user to select either Carmichael 
+or Dewick and view the breakfast menu items offered at that location. The app 
+requires the user to choose either Carmichael or Dewick, and if the user does not select either option then the app with state: "Sorry, you did select a dining option. Please choose a dining option." The app runs on Android 6.0 (Marshmellow). 
+
+The Android Developers website, https://developer.android.com/index.html, was 
+used to learn about the different widgets and how to have a fully functioning 
+app. Ming's simple app example from class was also used to develop the 
+application. 
+
+Before building this app, I had never used Android Studio or developed a 
+mobile app, so I learned a lot. I specifically learned how to use radio groups, 
+radio buttons and regular buttons, as well as the importance of designing a 
+layout before placing widgets. I also learned how to import an image from 
+online or my computer through the drawable folder. 
